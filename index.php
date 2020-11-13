@@ -1,3 +1,3 @@
 <?php
-echo "Bigphoto bot";
+echo "Bigphoto bot 888";
 ?>
